@@ -22,6 +22,13 @@
 
 ---
 
+### 🧑‍💻 Experience
+
+- 💼 **React/MERN Developer at X-Team** (2023 — Present)  
+  Working on scalable React.js applications, collaborating with global teams to build frontend components and full-stack solutions using the MERN stack.
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/codeboyd7" target="_blank">
