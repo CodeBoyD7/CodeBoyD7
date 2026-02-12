@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **TypeScript, Next.js**
 - 👯 I’m looking to collaborate on **React.js Projects**
 - 🤝 I’m looking for help with **React.js**
-- 👨‍💻 Check out my portfolio: [https://vasu-portfolio.onrender.com/](http://vasu-portfolio.onrender.com/)
+- 👨‍💻 Check out my portfolio: [https://vasud7.vercel.app/](https://vasud7.vercel.app/)
 - 💬 Ask me about **React.js, JavaScript**
 - 📫 Reach me at **vasudeva2002y@gmail.com**
 
